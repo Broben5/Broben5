@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <title>HTML + Semantic UI</title>
+  
+  <!-- HTML -->
+  
+  <!-- Semantic UI -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.1/dist/semantic.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.1/dist/semantic.min.css">
+</head>
+
+<body>
+  <h1>
+    Broben5s New Website
+    </h1>
+  <h3>
+    wassup guys ive made a website if you want you can suggest things for me to do by messaging me directly on my Instagram
+    </h3>
+   <h2>
+     so today i attempted to make a website using very basic coding as you can probably tell
+   </h2>
+  <!-- Project -->
+</body>
+</html>
